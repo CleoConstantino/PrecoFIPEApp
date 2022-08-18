@@ -4,6 +4,8 @@ Desenvolvido um Aplicativo para realizar buscas de preços da tabela Fipe em tem
 
 ## Técnicas, tecnologias e ferramentas utilizadas
 
+![tec](https://user-images.githubusercontent.com/59203960/185496357-22cbd25e-c3c5-4044-979f-a09ac1cd7caa.png)
+
 Para a criação desse App foi utilizando a IDE Android Studio e a linguagem de programação Java.
 
 Conceitos de xml, activity, banco de dados, webservices e utilizado o componente de lista (ListView).
