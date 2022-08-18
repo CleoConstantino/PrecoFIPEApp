@@ -12,6 +12,8 @@ Utilizado o HashMap para simular um "banco de dados", apenas para validar as inf
 
 ## Funcionalidades do projeto
 
+![app](https://user-images.githubusercontent.com/59203960/185494332-73e35d30-6e49-4842-a549-5eb0b17c8859.gif)
+![app2](https://user-images.githubusercontent.com/59203960/185494357-bdbf98ed-7edf-4d2a-a380-7c8650eaedd7.gif)
 
 
 # Pós-Gradução Desenvolvimento Fullstack de Sistemas Modernos para Nuvem (Cloud Native)
